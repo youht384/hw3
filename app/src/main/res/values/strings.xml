@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="title_TEXT">溫度轉換</string>
+    <string name="TEXT_VIEW">攝氏溫度:</string>
+    <string name="Chang_btn_TEXT"><![CDATA[攝氏>>華氏]]></string>
+    <string name="unit_TEXT">°C</string>
+
+</resources>
